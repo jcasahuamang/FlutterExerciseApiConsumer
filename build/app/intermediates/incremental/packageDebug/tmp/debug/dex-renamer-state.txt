@@ -1,0 +1,4 @@
+#Thu Apr 14 22:30:33 COT 2022
+base.0=D\:\\Desarrollo\\Flutter\\consumo_apirest\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
